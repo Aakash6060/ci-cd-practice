@@ -1,2 +1,9 @@
 # CI/CD Demo Repo
-This is a demo repository to showcase GitHub Actions with Super-Linter.
+
+This repository is a demo to showcase GitHub Actions with Super-Linter.
+
+## Features
+
+- GitHub Actions
+- Super-Linter
+- Pull Request Workflow
