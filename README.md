@@ -1,9 +1,9 @@
 # CI/CD Demo Repo
 
-This repository is a demo to showcase GitHub Actions with Super-Linter.
+This repository demonstrates the use of GitHub Actions integrated with Super-Linter for continuous integration and code quality checks.
 
 ## Features
 
-- GitHub Actions
-- Super-Linter
-- Pull Request Workflow
+- Automated linting using Super-Linter
+- GitHub Actions workflows
+- Pull request-based collaboration
