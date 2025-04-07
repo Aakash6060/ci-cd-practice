@@ -1,4 +1,4 @@
-# CI/CD Demo Repo
+# CI/CD Demo Repository
 
 This repository demonstrates the use of GitHub Actions integrated with Super-Linter for continuous integration and code quality checks.
 
